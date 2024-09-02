@@ -31,11 +31,7 @@ crontab -e
 
 and add the line
 
-* * * * * /root/ControlBatteryCharger.sh 200
+"* * * * * /root/ControlBatteryCharger.sh 200"
        
-at the end of the file.
-
-
-
-By modfying the threshold (default: 200) you can adapt the script to your needs.
+(without quotes!) at the end of the file.
 
