@@ -1,4 +1,6 @@
 Shelly Control Battery Charger
+(C) ast-software
+Published under the GPL License V3
 
 This bash script controls a battery charger connected via a Shelly Plug S by monitoring
 the power output of a PV system measured by a Shelly PM1 plus device. The script uses
